@@ -13,4 +13,8 @@ public class Vpn {
 		SpringApplication.run(Vpn.class, args);
 	}
 
+	@Override
+	public boolean equals(Object obj) {
+		return super.equals(obj);
+	}
 }
