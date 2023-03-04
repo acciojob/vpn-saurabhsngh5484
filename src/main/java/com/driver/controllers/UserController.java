@@ -24,5 +24,5 @@ public class UserController {
         //subscribe to a serviceProvider and return updated User
         User user = userService.subscribe(userId, serviceProviderId);
     }
-    skcsjcjsbcjjscj
+
 }
